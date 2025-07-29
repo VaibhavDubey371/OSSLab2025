@@ -6,3 +6,11 @@ Name:VAIBHAV DUBEY
 Roll Number: 231B371
 Email: 231B371@juetguna.in
 <Solution code to part F>
+
+x=12;
+y=14;
+
+print=(x+y);
+
+<End of code>
+
